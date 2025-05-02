@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/6ce74943-ceed-458b-8a3c-cc8298d6c008)
+![image](https://github.com/user-attachments/assets/8d8b85d8-18a4-4428-8829-03d29c6696b4)
+![image](https://github.com/user-attachments/assets/f3c63207-634d-4591-8e0f-0a8a36d95a68)
 
-### Name:
-### Register Number:
+### Name:Harisha S
+### Register Number:212224230087
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
